@@ -6,7 +6,7 @@ I have a simple Vue plugin in `test-plugin.ts` that adds `$myPlugin` as a proper
 
 Despite the following erorr on build, the application runs as expected.
 
-```
+```Text
 ERROR in /Users/kccricket/Projects/what-the-heck/vue-plugin-test/src/components/HelloWorld.vue
 43:21 Property '$myPlugin' does not exist on type 'CombinedVueInstance<Vue, { one: number; }, {}, {}, Readonly<{ msg: string; }>>'.
     41 |   },
