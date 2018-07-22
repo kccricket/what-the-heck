@@ -20,24 +20,28 @@ ERROR in /Users/kccricket/Projects/what-the-heck/vue-plugin-test/src/components/
 
 ## My question
 
-Why does the build process and intellisense in vscode show this erorr?
+Why do the build process and intellisense in vscode show this erorr?
 
 ## Project setup
-```
+
+```Text
 yarn install
 ```
 
 ### Compiles and hot-reloads for development
-```
+
+```Shell
 yarn run serve
 ```
 
 ### Compiles and minifies for production
-```
+
+```Shell
 yarn run build
 ```
 
 ### Lints and fixes files
-```
+
+```Shell
 yarn run lint
 ```
