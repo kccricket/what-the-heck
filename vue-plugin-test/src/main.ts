@@ -1,6 +1,6 @@
 import Vue from 'vue';
-import App from './App.vue';
-import MyPlugin from './test-plugin';
+import App from '@/App.vue';
+import MyPlugin from '@/test-plugin';
 
 Vue.config.productionTip = false;
 
